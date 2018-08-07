@@ -1,3 +1,4 @@
+============Open source packages and versions=============
 Packages	License	Version
 openstack		3.8.2
 keystone		2:11.0.3-0ubuntu1~cloud0
@@ -8,3 +9,4 @@ keystone-manage		11.0.4
 Apache Zookeeper	Apache License 2.0	3.4.10-2
 redis-server 		4.0.10
 cassandra		3.4
+===========================================================
