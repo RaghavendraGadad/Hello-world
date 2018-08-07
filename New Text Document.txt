@@ -1,0 +1,10 @@
+Packages	License	Version
+openstack		3.8.2
+keystone		2:11.0.3-0ubuntu1~cloud0
+nova-manage		15.1.4
+cinder-manage		10.0.8
+glance-manage		14.0.1
+keystone-manage		11.0.4
+Apache Zookeeper	Apache License 2.0	3.4.10-2
+redis-server 		4.0.10
+cassandra		3.4
